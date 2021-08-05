@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>armbot_description</name>
+  <version>0.4.4</version>
+  <description>xacro description</description>
+  <maintainer email="buffoon@todo.todo">buffoon</maintainer>	
+  <author email="buffoon@outlook.com">buffoon</author>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roslaunch</build_depend>
+  <run_depend>urdf</run_depend>
+  <run_depend>xacro</run_depend>
+
+  <export>
+  </export>
+</package>
